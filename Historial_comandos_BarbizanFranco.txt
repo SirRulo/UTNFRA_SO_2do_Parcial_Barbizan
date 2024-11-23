@@ -1,0 +1,73 @@
+sudo snap install tree
+clear
+tree UTNFRA_SO_2do_Parcial_Barbizan/
+./UTN-FRA_SO_Examenes/202406/script_Precondicion.sh
+source  ~/.bashrc  && history -a
+ls -l
+mv RTA_Examen_20241123/ UTNFRA_SO_2do_Parcial_Barbizan/
+tree UTNFRA_SO_2do_Parcial_Barbizan/
+sudo systemctl restart docker
+sudo systemctl status docker
+clear
+fdisk -l
+sudo fdisk -l
+clear
+sudo fdisk -l
+tree UTNFRA_SO_2do_Parcial_Barbizan/
+vim UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_A.sh
+vim UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_B.sh
+vim UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_C.sh
+./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_A.sh
+ls -l ./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_A.sh
+chmod +x ./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_A.sh
+chmod +x ./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_B.sh
+chmod +x ./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_C.sh
+tree UTNFRA_SO_2do_Parcial_Barbizan/
+sudo fdisk -l
+./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_A.sh
+q
+sudo fdisk -l
+clear
+./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_A.sh
+sudo fdisk -l
+clear
+./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_A.sh
+sudo fdisk -l
+sudo systemctl restart docker
+sudo systemctl status docker
+clear
+./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_B.sh
+ls -l
+ls -l UTNFRA_SO_2do_Parcial_Barbizan/
+./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_C.sh
+clear
+vim UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_D.sh
+chmod +x ./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_D.sh
+./UTNFRA_SO_2do_Parcial_Barbizan/RTA_Examen_20241123/Punto_D.sh
+ls -l
+cd UTN-FRA_SO_Examenes/202406
+ls -l
+cd ..
+cp -rp UTN-FRA_SO_Examenes/202406/ UTNFRA_SO_2do_Parcial_Barbizan/
+tree UTNFRA_SO_2do_Parcial_Barbizan/
+clear
+cd UTNFRA_SO_2do_Parcial_Barbizan/
+history -a
+$HOME/.bash_history
+sudo $HOME/.bash_history
+sudo ~/.bash_history
+sudo /home/Barbizan/.bash_history
+ls -l
+cat << FIN >> README.md
+Nombre: Franco
+Apellido: Barbizan
+Legajo: 112380
+Division: 113 turno mañana
+FIN
+
+cat README.md 
+history -a $HOME/.bash_history
+ls -l
+cd ..
+ls -l
+cd UTNFRA_SO_2do_Parcial_Barbizan/
